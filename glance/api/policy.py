@@ -19,7 +19,7 @@
 from collections import abc
 
 from oslo_config import cfg
-from oslo_log import log as logging
+from oslo_log import log as loggpythong
 from oslo_policy import opts
 from oslo_policy import policy
 
